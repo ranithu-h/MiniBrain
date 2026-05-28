@@ -1,0 +1,13 @@
+small,dog,1
+big,hippo,2
+big,elephant,1
+long_neck,giraffe,2
+fur,dog,1
+tail,dog,1
+yellow,giraffe,3
+trunk,elephant,4
+water,hippo,2
+grey,hippo,3
+grey,elephant,4
+bark,dog,1
+spots,giraffe,1
