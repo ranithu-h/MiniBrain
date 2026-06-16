@@ -8,6 +8,9 @@ Instead of using modern AI frameworks or machine learning libraries, MiniBrain f
 
 ---
 
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/73922094-5826-43f1-8df3-0015b531d7a5" />
+
+
 ## Features
 
 * Neural architecture using custom classes
